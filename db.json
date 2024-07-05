@@ -1,19 +1,19 @@
 {
 	"dogs": [
 		{
-			"id": "1",
-			"imageUrl": "https://i.pinimg.com/originals/b4/c9/f8/b4c9f8699e6a63ba2d6d4d55c6d80b75.jpg",
+			"id": "e68e8d8c-3374-4a51-b485-877835b52f47",
+			"imageUrl": "e3bb196a-0153-4122-8725-24a085404495.gif",
 			"likes": 40,
 			"isLike": true
 		},
 		{
-			"id": "2",
-			"imageUrl": "https://polinka.top/pics3/uploads/posts/2023-11/1700210874_polinka-top-p-kartinki-labradorov-pinterest-33.jpg",
+			"id": "ed6fd82c-b265-49c0-b4a5-6573691c2699",
+			"imageUrl": "d4145aec-cb32-444b-8ea9-3e64b2076b60.jpg",
 			"isLike": false
 		},
 		{
-			"id": "3",
-			"imageUrl": "https://i.pinimg.com/originals/d6/a0/ba/d6a0ba5e6b380e29af585839f57e19b6.jpg",
+			"id": "0dd10655-2ca5-4ace-b82a-dec8a6022a1b",
+			"imageUrl": "21109704-778c-4896-b2ab-7479a77026ed.mp4",
 			"isLike": true
 		},
 		{
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": "6",
-			"imageUrl": "https://i.pinimg.com/originals/b4/c9/f8/b4c9f8699e6a63ba2d6d4d55c6d80b75.jpg",
+			"imageUrl": "cf0c4f02-6a5c-4765-89fe-2718cee592ed.gif",
 			"isLike": false
 		},
 		{
