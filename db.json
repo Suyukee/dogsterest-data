@@ -2,18 +2,18 @@
 	"dogs": [
 		{
 			"id": "e68e8d8c-3374-4a51-b485-877835b52f47",
-			"imageUrl": "https://e3bb196a-0153-4122-8725-24a085404495.gif",
+			"imageUrl": "https://random.dog/e3bb196a-0153-4122-8725-24a085404495.gif",
 			"likes": 40,
 			"isLike": true
 		},
 		{
 			"id": "ed6fd82c-b265-49c0-b4a5-6573691c2699",
-			"imageUrl": "https://d4145aec-cb32-444b-8ea9-3e64b2076b60.jpg",
+			"imageUrl": "https://random.dog/d4145aec-cb32-444b-8ea9-3e64b2076b60.jpg",
 			"isLike": false
 		},
 		{
 			"id": "0dd10655-2ca5-4ace-b82a-dec8a6022a1b",
-			"imageUrl": "https://21109704-778c-4896-b2ab-7479a77026ed.mp4",
+			"imageUrl": "https://random.dog/21109704-778c-4896-b2ab-7479a77026ed.mp4",
 			"isLike": true
 		},
 		{
@@ -28,7 +28,7 @@
 		},
 		{
 			"id": "6",
-			"imageUrl": "cf0c4f02-6a5c-4765-89fe-2718cee592ed.gif",
+			"imageUrl": "https://random.dog/cf0c4f02-6a5c-4765-89fe-2718cee592ed.gif",
 			"isLike": false
 		},
 		{
