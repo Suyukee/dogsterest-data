@@ -2,18 +2,18 @@
 	"dogs": [
 		{
 			"id": "e68e8d8c-3374-4a51-b485-877835b52f47",
-			"imageUrl": "e3bb196a-0153-4122-8725-24a085404495.gif",
+			"imageUrl": "https://e3bb196a-0153-4122-8725-24a085404495.gif",
 			"likes": 40,
 			"isLike": true
 		},
 		{
 			"id": "ed6fd82c-b265-49c0-b4a5-6573691c2699",
-			"imageUrl": "d4145aec-cb32-444b-8ea9-3e64b2076b60.jpg",
+			"imageUrl": "https://d4145aec-cb32-444b-8ea9-3e64b2076b60.jpg",
 			"isLike": false
 		},
 		{
 			"id": "0dd10655-2ca5-4ace-b82a-dec8a6022a1b",
-			"imageUrl": "21109704-778c-4896-b2ab-7479a77026ed.mp4",
+			"imageUrl": "https://21109704-778c-4896-b2ab-7479a77026ed.mp4",
 			"isLike": true
 		},
 		{
